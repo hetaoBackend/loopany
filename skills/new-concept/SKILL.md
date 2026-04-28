@@ -1,6 +1,6 @@
 ---
-name: loopany-new-concept
-description: Use when picking between note / new kind / new domain — before `loopany kind propose`, before extracting a new domain, or any time the user says "I want to track X" / "should we add a kind for…" / "let's make a domain for…". Default: write a note. Triggers on any new-concept decision in a loopany workspace.
+name: loopany-taxonomy
+description: Use when picking between note / new kind / new domain — before `loopany kind propose`, before extracting a new domain, or any time the user says "I want to track X" / "should we add a kind for…" / "let's make a domain for…". Default: write a note.
 ---
 
 # new-concept — note, kind, or domain?
